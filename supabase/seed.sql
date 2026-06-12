@@ -1,0 +1,2 @@
+-- Local seed data. Runs on `supabase db reset`.
+-- Add inserts here to give the app something to render in local dev.
